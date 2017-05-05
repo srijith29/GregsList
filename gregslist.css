@@ -1,0 +1,82 @@
+nav{
+	width:100%;
+	height:40px;
+	background-color: grey;
+	border:1px solid black;
+
+}
+
+nav li{
+	display: inline-block;
+	position:relative;
+	left:85%;
+	padding-right: 10px;
+}
+
+h1.title
+{
+	position:absolute;
+	display:inline-block; 
+	font-size:18px;
+}
+
+div label
+{
+	margin-top: 10px;
+}
+.search
+{
+	margin-top:20px; 
+	font-family: arial;
+
+}
+.table1{
+	height: 20px;
+	width:50px;
+	border:.1px solid black;
+	margin-top: 30px;
+	float: left;
+	font-family: arial;
+	font-size: 15px;
+}
+.table2{
+	height: 20px;
+	width:100px;
+	border:.01px solid black;
+	margin-top: 30px;
+	font-family: arial;
+	float: left;
+	font-size: 13px;
+	text-align: center;
+	
+}
+
+.table3{
+	height: 20px;
+	width:50px;
+	border:.1px solid black;
+	margin-top: 30px;
+	float: left;
+	font-family: arial;
+	font-size: 15px;
+	text-align: center;
+}
+.searchresults
+{
+	clear: left;
+	padding-top: 30px;
+	font-family: arial, sans-serif;
+	color:grey;
+}
+main
+{
+	margin-left: 30px;
+}
+a:link
+{
+	text-decoration:none; 
+}
+input
+{ 
+	color:grey; 
+}
